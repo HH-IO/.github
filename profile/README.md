@@ -1,44 +1,34 @@
 HH-IO
-<div align="center"> <img src="https://static.thenounproject.com/png/2991215-200.png" width="100" alt="Logo HH-IO" /> </div>
 Sobre a Organização
-A HH-IO é uma organização que une tecnologia de ponta com ciência e humanização em saúde mental. Desenvolvemos soluções digitais e físicas baseadas em visualização significativa, análise dimensional e integração de dados, tendo como principal projeto o framework HEALTH/HEALTH.
+A HH-IO é uma organização dedicada à inovação em saúde mental, desenvolvendo soluções digitais e físicas baseadas em ciência de dados, visualização significativa e integração multidimensional da experiência psíquica. Nosso principal projeto, HEALTH/HEALTH, propõe uma ruptura paradigmática em relação aos modelos categoriais tradicionais, adotando uma abordagem vetorial-dimensional focada em trajetórias e transformação ao longo do tempo[3].
 
-🧑‍💻 Stack Tecnológica
-Linguagem principal: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="24" /> F#
-Priorizamos paradigmas funcionais, robustez e inovação tecnológica.
-Frameworks e Plataformas: .NET, Chart.js, integração com IA (VertexAI, Whisper), APIs REST.
-Infraestrutura: Integração com data lake anonimizado (VIDIRIA), cloud, mobile e web.
-🚀 Parceiros e Reconhecimento
-👥 Membro do Microsoft for Startups Founders Hub
-Colaboração com redes clínicas, pesquisadores e comunidades de inovação em saúde mental
-🌱 Missão, Visão e Valores
-Missão: Transformar a prática clínica em saúde mental com tecnologia, rigor científico e interfaces humanizadas.
-Visão: Ser referência internacional em frameworks digitais para saúde mental e documentação clínica dimensional.
-Valores: Inovação, ética, colaboração, transparência, respeito à singularidade.
-🧭 O que fazemos
-Substituímos diagnósticos estáticos por mapas dimensionais e trajetórias personalizadas.
-Visualizamos estados mentais em 10 dimensões agrupadas em três metadimensões (Emocional, Cognitiva, Autonomia).
-Integramos dados narrativos, quantitativos e qualitativos, com visualizações interativas para profissionais e pacientes.
-Garantimos governança de dados, anonimização e consentimento granular.
-🖼️ Exemplo de Visualização (Radar Dimensional)
-Mermaid
-radar
-    title Dimensões HH
-    "Valência Emocional": 4
-    "Excitação Emocional": 6
-    "Dominância Emocional": 3
-    "Intensidade Afetiva": 8
-    "Complexidade Sintática": 7
-    "Coerência Narrativa": 5
-    "Flexibilidade Cognitiva": 6
-    "Dissonância Cognitiva": 2
-    "Perspectiva Temporal": 7
-    "Autocontrole": 4
-🤝 Contribua
-Buscamos colaboração interdisciplinar! Se você se conecta com nossa missão—seja em F#, design, ciência de dados, ou clínica—entre em contato!
+Missão
+Transformar a documentação, análise e acompanhamento em saúde mental por meio de ferramentas integrativas que unem rigor científico, tecnologia avançada, humanização e colaboração clínica.
 
-💡 Sugestão: README em F#?
-Se quiser inovar ainda mais, você pode criar um README em formato literate programming (ex: .fsx ou .md com blocos F# intercalados), mostrando exemplos reais de código e visualização, tornando o onboarding ainda mais interativo para devs da comunidade F#.
+Visão
+Ser referência em frameworks e soluções digitais para mapeamento, registro e visualização da experiência mental, valorizando a singularidade dos sujeitos e promovendo práticas clínicas mais precisas, sensíveis e colaborativas.
 
-📄 Documentação
-Veja a documentação completa nos repositórios da organização para especificações técnicas, manuais, diagramas e exemplos de casos.
+Valores
+Inovação Científica: Pesquisa contínua e adoção de paradigmas avançados.
+Humanização Técnica: Precisão sem frieza clínica; interfaces acessíveis, inclusivas e acolhedoras.
+Colaboração: Design centrado na co-construção entre profissionais, pacientes e equipes.
+Transparência: Clareza nos processos, visualizações e tomada de decisão.
+Ética e Privacidade: Governança de dados robusta, consentimento granular e anonimização.
+O Framework HEALTH/HEALTH
+O HEALTH/HEALTH substitui diagnósticos categoriais (DSM/CID) por um mapeamento dimensional da experiência mental em 10 dimensões agrupadas em três metadimensões: Emocional, Cognitiva e Autonomia[6]. Foca em trajetórias dinâmicas ao longo do tempo e integra análise linguística, visualizações interativas e documentação clínica automatizada.
+
+Principais componentes:
+
+Entrevista Dimensional Estruturada e Registro Clínico Dimensional
+Visualizações radar e trajetoriais
+Pipeline de processamento linguístico com IA e análise multinível
+Integração com sistemas de prontuário, telemedicina e apps mobile[1][2][5].
+Ecossistema HH
+Interfaces digitais: Aplicativos para profissionais e pacientes, sistema backend, APIs, visualizações interativas
+Interfaces físicas: Elementos de design no ambiente clínico, materiais táteis, integração sensorial
+Data Lake VIDIRIA: Armazenamento anonimizado, análise de padrões, modelos preditivos[6].
+Documentação e Recursos
+Especificações técnicas e manuais de uso
+Diagramas, glossários e exemplos de casos clínicos
+Framework de governança e conformidade de dados
+Para mais detalhes, consulte a documentação técnica e os repositórios associados da organização.
