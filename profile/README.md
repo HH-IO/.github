@@ -1,3 +1,5 @@
+
+
 ---
 
 # HH-IO
@@ -28,21 +30,6 @@ O HEALTH/HEALTH propõe uma abordagem vetorial-dimensional:
 ---
 
 ## 📊 Exemplo de Visualização Dimensional
-
-```mermaid
-radar
-    title Dimensões HH
-    "Valência Emocional": 4
-    "Excitação Emocional": 6
-    "Dominância Emocional": 3
-    "Intensidade Afetiva": 8
-    "Complexidade Sintática": 7
-    "Coerência Narrativa": 5
-    "Flexibilidade Cognitiva": 6
-    "Dissonância Cognitiva": 2
-    "Perspectiva Temporal": 7
-    "Autocontrole": 4
-```
 
 ---
 
