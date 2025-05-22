@@ -1,5 +1,3 @@
-Perfeito! Aqui está uma versão **visual para README.md** que combina apresentação institucional, exemplos de código F#, visualização de dados dimensionais e tabelas. Ela é ideal para o perfil da sua organização, ficando bonita tanto no GitHub quanto em outros viewers Markdown. Trechos de código F# são mostrados em blocos destacados e a visualização é feita via Mermaid (radar chart) e tabelas.
-
 ---
 
 # HH-IO
@@ -175,4 +173,3 @@ Confira mais detalhes nos repositórios da organização.
 
 ---
 
-Se deseja adicionar mais exemplos visuais, gráficos, ou snippets para onboarding do time, só avisar!
